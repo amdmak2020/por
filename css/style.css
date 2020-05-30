@@ -299,7 +299,7 @@ header {
 
 .my-services {
     background-color: var(--clr-dark);
-    background-image: url(https://scontent.fcai19-1.fna.fbcdn.net/v/t1.0-9/75627485_806185883131338_5209022094200799232_n.jpg?_nc_cat=103&_nc_sid=09cbfe&_nc_ohc=wvnoHBJYMN0AX_nZV_O&_nc_ht=scontent.fcai19-1.fna&oh=8f4d797e1c90e028fe756386dd817ef5&oe=5EF853E8);
+    background-image: url("https://scontent.fcai19-1.fna.fbcdn.net/v/t1.0-9/75627485_806185883131338_5209022094200799232_n.jpg?_nc_cat=103&_nc_sid=09cbfe&_nc_ohc=wvnoHBJYMN0AX_nZV_O&_nc_ht=scontent.fcai19-1.fna&oh=8f4d797e1c90e028fe756386dd817ef5&oe=5EF853E8");
     background-size: cover;
     background-blend-mode: multiply; 
     color: var(--clr-light);
